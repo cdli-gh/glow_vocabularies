@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title:  GLOW Vocabularies
 description: Description of the site
+logo: logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
