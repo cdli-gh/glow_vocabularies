@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Template"
+rank: 999
+---
+
+
 # Template
 <font size=2>[Name of working group]</font></br><font size=1>[Names of authors]</font>
 
