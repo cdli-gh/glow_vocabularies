@@ -1,41 +1,18 @@
-# Welcome to the GLoW Vocabularies documentation
-
+# Introduction
+The Vocabularies Consortium (VoCo) is a loose network dedicated to further the standardisation of metadata entities and associated vocabularies in cuneiform studies. This initiative draws on the [Metadata in Assyriology](https://www.lingfil.uu.se/research/assyriology/events#MetadatainAssyriology) sessions organised by [Geomapping Landscapes of Writing: Large-Scale Spatial Analysis of the Cuneiform Corpus (GLoW)](https://www.lingfil.uu.se/research/assyriology/glow/) and held virtually at Uppsala University 23-26 November 2020, as well as a subsequent survey of data repositories and data standards in the field of cuneiform studies conducted during March and April 2021. 
 
 ## Purpose
+The consortium has primarily focused on primary contextual metadata, and here especially the formal definition of basic data entities and their associated vocabularies. So far, working groups within the consortium have been formed with reference to three general types of metadata:
 
+* Geography
+* Chronology
+* Bibliography
 
+## Activities
+
+Activities of this network have focused on surveying, developing, and guiding the joint formation and integration of key groups of metadata across different projects and repositories. Discussions and data collection efforts have been held with reference to three general working groups, each overseen by a convenor charged with practical matters of organising and documenting initiative activities. The primary requirement for individual participants has been their association with a project, initiative, or repository assembling and curating metadata vocabularies of the types mentioned above.
 
 
 ## Status
 
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cdli-gh/glow_vocabularies/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
