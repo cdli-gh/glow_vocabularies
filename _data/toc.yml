@@ -2,16 +2,16 @@ toc:
   - title: Geography
     subfolderitems:
       - page: Places
-        url: /geography_place.md
+        url: geography_place.html
       - page: Names
-        url: /geography_name.md
+        url: geography_name.html
       - page: Locations
-        url: /geography_location.md
+        url: geography_location.html
   - title: Chronology
     subfolderitems:
       - page: Periods
-        url: /chronology_period.md
+        url: chronology_period.html
   - title: Bibliography
     subfolderitems:
       - page: Publications
-        url: /bibliography_publication.md
+        url: bibliography_publication.html
