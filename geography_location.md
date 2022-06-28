@@ -8,7 +8,7 @@ rank: 1
 # Location
 <font size=2>Geography Working Group</font>
 
-<font size=1>Rune Rattenborg, Sebastian Borkowski Jamie Novotny, Manuel Molina, Susanne Rutishauser</font>
+<font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font>
 
 ## Description
 The **location** entity defines any discrete, physical location of an archaeological nature, generally corresponding to the **provenience** entity typically included in digital catalogues in cuneiform studies, and the archaeological feature constituting a site in an archaeological gazetteer. For a typical example of **location** entities as employed in digital catalogues in cuneiform studies, see the documentation of the
