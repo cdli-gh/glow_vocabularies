@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Geography - name"
+rank: 1
+---
+
+
 # Name
 <font size=2>Geography Working Group</font></br><font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny,  Susanne Rutishauser</font>
 
