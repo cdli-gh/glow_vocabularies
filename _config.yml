@@ -3,20 +3,20 @@ title:  Vocabularies Consortium
 description: An initiative dedicated to further the standardisation of metadata entities and associated vocabularies in cuneiform studies.
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-toc: 
-- title: Geography
-subfolderitems:
-- page: Places
-url: /geography_place.md
-- page: Names
-url: /geography_name.md
-- page: Locations
-url: /geography_location.md
-- title: Chronology
-subfolderitems:
-- page: Periods
-url: /chronology_period.md
-- title: Bibliography
-subfolderitems:
-- page: Publications
-url: /bibliography_publication.md
+toc:
+  - title: Geography
+    subfolderitems:
+      - page: Places
+        url: /geography_place.md
+      - page: Names
+        url: /geography_name.md
+      - page: Locations
+        url: /geography_location.md
+  - title: Chronology
+    subfolderitems:
+      - page: Periods
+        url: /chronology_period.md
+  - title: Bibliography
+    subfolderitems:
+      - page: Publications
+        url: /bibliography_publication.md
