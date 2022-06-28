@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Geography - place"
+title: "Geography: Place"
 rank: 1
 ---
 ## Geography: place
