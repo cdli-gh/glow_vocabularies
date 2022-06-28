@@ -1,12 +1,14 @@
 ---
 layout: default
 title: "Geography: Location"
-rank: 16
+rank: 1
 ---
 
 
 # Location
-<font size=2>Geography Working Group</font></br><font size=1>Rune Rattenborg, Sebastian Borkowski Jamie Novotny, Manuel Molina, Susanne Rutishauser</font>
+<font size=2>Geography Working Group</font>
+
+<font size=1>Rune Rattenborg, Sebastian Borkowski Jamie Novotny, Manuel Molina, Susanne Rutishauser</font>
 
 ## Description
 The **location** entity defines any discrete, physical location of an archaeological nature, generally corresponding to the **provenience** entity typically included in digital catalogues in cuneiform studies, and the archaeological feature constituting a site in an archaeological gazetteer. For a typical example of **location** entities as employed in digital catalogues in cuneiform studies, see the documentation of the
@@ -21,17 +23,18 @@ name | description
 longitude | Longitude (x) of the location geographical coordinate in decimal degrees
 latitude | Latitude (y) of the location geographical coordinate in decimal degrees
 certainty | Degree of geographical precision of the location geographical coordinate
-wikidata | Identifier of the corresponding entity record in WikiData
+wikidata | Identifier of the corresponding entity record in [WikiData](http://wikidata.org)
 
 Linking the **location** record to a corresponding **wikidata** identifier will also establish a link to all associated identifiers included by WikiData. As such, a WikiData identifier will usually link to corresponding identifiers from GeoNames, OpenStreetMap,
 
 ## Optional fields
+Apart from the recommended basic fields described above, a wide range of external identifiers can also be optionally included. 
 
 name | description
 -----|--------------
-geonames_id | Link to the corresponding record in GeoNames
-osm_id | Link to corresponding record in OpenstreetMap
-osm_type | Type of geometry associated with **osm_id**
+geonames_id | Link to the corresponding record in [GeoNames](http://geonames.org)
+osm_id | Link to corresponding record in [OpenstreetMap](http://openstreetmap.org)
+osm_type | Type of geometry associated with **osm_id** in [OpenstreetMap](http://openstreetmap.org). Three different types of vector geometry are employed, namely **node**, **way**, and 
 pleiades_id | Link to corresponding record in [Pleiades](pleiades.stoa.org)
 
 ## Resources
