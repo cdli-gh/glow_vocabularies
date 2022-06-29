@@ -38,7 +38,7 @@
         </ul>
         {% endif %}
         {% for item in site.data.toc.toc %}
-        <h5><a href="{{ title.url }}">{{ entry.page }}</a></h5>
+        <h5><a href="{{ href }}">{{ item.title }}</a></h5>
           <ul>
             {% for entry in item.subfolderitems %}
               <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
