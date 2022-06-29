@@ -8,6 +8,8 @@ toc:
         url: geography_name.html
       - page: Locations
         url: geography_location.html
+      - page: Collections
+        url: geography_collection.html
   - title: Chronology
     url: chronology.html
     subfolderitems:
