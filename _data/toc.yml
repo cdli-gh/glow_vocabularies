@@ -9,10 +9,12 @@ toc:
       - page: Locations
         url: geography_location.html
   - title: Chronology
+    url: chronology.html
     subfolderitems:
       - page: Periods
         url: chronology_period.html
   - title: Bibliography
+    url: bibliography.html
     subfolderitems:
       - page: Publications
         url: bibliography_publication.html
