@@ -6,12 +6,11 @@ rank: 1
 
 
 # Location
-<font size=2>Geography Working Group</font>
-
+<font size=2>Geography Working Group</font><br>
 <font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font>
 
 ## Description
-The **location** entity defines _any discrete, physical location of an archaeological nature_, generally corresponding to the **provenience** entity typically included in digital catalogues in cuneiform studies, and the archaeological feature constituting a site in an archaeological gazetteer. For a typical example of **location** entities as employed in digital catalogues in cuneiform studies, see the documentation for proveniences as employed by the [Cuneiform Digital Library Initiative]().
+The **location** entity defines _any discrete, physical location of an archaeological nature_, generally corresponding to the **provenience** entity typically included in digital catalogues in cuneiform studies, and the archaeological feature constituting a site in an archaeological gazetteer. For a typical example of **location** entities as employed in digital catalogues in cuneiform studies, see the documentation for proveniences as employed by the [Cuneiform Digital Library Initiative](https://cdli.mpiwg-berlin.mpg.de/proveniences).
 
 The extended conceptual meaning of this entity as employed here is derived in large part from the [location](https://pleiades.stoa.org/help/conceptual-overview) entity type of the [Pleiades: A Gazetteer of Past Places](pleiades.stoa.org) repository, where it need not refer solely to a known archaeological provenience of a cuneiform inscription, but indeed to any known physical location. Following this ontology, a **location** as understood in the present context may correspond to the provenience of a cuneiform inscription, or a historical [**place**](./geography_place.md) related to one or more [**names**](./geography_name.md) found in one or several cuneiform inscriptions, or an archaeological feature otherwise included in a given data collection, for example on the basis of historical contemporaneity.
 
