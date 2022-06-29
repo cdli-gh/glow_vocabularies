@@ -1,5 +1,6 @@
 toc:
   - title: Geography
+    page: Geography
     url: geography.html
     subfolderitems:
       - page: Places
