@@ -4,9 +4,7 @@ title: "Geography"
 rank: 1
 ---
 # Geography
-<font size=2>Geography Working Group</font>
-
-<font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font>
+<p><font size=2>Geography Working Group</font><br><font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font></p>
 
 ## Aims
 The documentation available from the Geography Working Group of the [Vocabularies Consortium](./index.md) is intended as a set of minimum best practice guidelines for structuring and linking metadata collections pertaining to geographical knowledge in cuneiform studies. Documentation provided below for individual data entities offers guidance on the alignment and linking of relevant metadata records to external reference indices in order to improve data interoperability, discoverability, and reuse. While we encourage the unrestricted access to research data, the guidelines provided here do not entail sharing of research data. Rather, it is meant to further mapping and linking to relevant open access reference indices, so as to improve compatibility of data collections and avoid data duplication through increased discoverability.
