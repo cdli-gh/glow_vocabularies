@@ -24,6 +24,7 @@ pleiades_id | Identifier of the corresponding entity record in [Pleiades](pleiad
 wikidata | Identifier of the corresponding entity record in [WikiData](http://wikidata.org)
 
 ## Optional fields
+Additional links predominantly include identifiers from historical and geographical gazetteers, depending again on whether the association between a **place** and a **location** is known or not known.
 name | description
 -----|---------------
 whg | Identifier of the corresponding entity record in [World History Gazetteer](pleiades.stoa.org)
