@@ -4,11 +4,11 @@ title: "Geography: Collection"
 rank: 1
 ---
 # Collection
-<font size=2>Geography Working Group</font><br>
-<font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font>
+<p><font size=2>Geography Working Group</font><br>
+<font size=1>Rune Rattenborg, Sebastian Borkowski, Manuel Molina, Jamie Novotny, Susanne Rutishauser</font></p>
 
 ## Description
-The **collection** entity defines _any public or private collection of cultural artefacts_ that includes cuneiform inscriptions. A **collection** record may refer to large public or private institutions or the collections of a single individual. A **collection** may refer to an extant collection, as well as any extinct or now dispersed collection that can be defined with a reasonable degree of certainty.
+The **collection** entity defines _any public or private collection of cultural artefacts_. A **collection** record may refer to large public or private institutions or the collections of a single individual. A **collection** may refer to an extant collection, as well as any extinct or now dispersed collection that can be defined with a reasonable degree of certainty.
 
 A collection predominantly refers to a discrete institution, for example a public or private museum or collection, the study collection of a university, college, or research institute, or the private collection or possessions of an individual. A collection can include anything from many tens of thousands of inscribed objects (e.g. the British Museum) or a single inscribed object in the possession of a known or anonymous individual.
 
@@ -16,8 +16,15 @@ Collection records held by the [Cuneiform Digital Library Initiative](https://cd
 
 ## Recommended fields
 
+name | description
+-----|--------------
+cdli_id | Identifier of the related collection entity record in the [Cuneiform Digital Library Initiative](http://cdli.mpiwg-berlin.mpg.de/collections)
+wikidata_id | Identifier of the corresponding entity record in [WikiData](http://wikidata.org)
 
-While provenance histories have not been consistently mapped by the [Cuneiform Digital Library Initiative](cdli.ucla.edu) historically (e.g. Reade 2017, 166), qualification of collection record links to artifact records may be implemented to allow for mapping of changing histories of ownership.
+## Optional fields
+
+name | description
+-----|--------------
 
 ## Resources
 
