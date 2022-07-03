@@ -8,10 +8,10 @@ rank: 5
 Chronology Working Group   
 <font size=1>Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig</font>
 
-##Description
+## Description
 
-##Recommended fields
+## Recommended fields
 
-##Optional fields
+## Optional fields
 
-##Further reading
+## Further reading
