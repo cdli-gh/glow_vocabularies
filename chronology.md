@@ -4,8 +4,8 @@ title: "Chronology"
 rank: 2
 ---
 # Chronology
-<font size=2>Chronology Working Group</font>    
-Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig
+Chronology Working Group   
+<font size=1>Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig</font> 
 
 ## Aims
 The documentation available from the Chronology Working Group of the [Vocabularies Consortium](index.html) is intended as a set of minimum best practice guidelines for structuring and linking metadata collections pertaining to chronological knowledge in cuneiform studies. Documentation provided below for individual data entities offers guidance on the alignment and linking of relevant metadata records to external reference indices in order to improve data interoperability, discoverability, and reuse. While we encourage the unrestricted access to research data, the guidelines provided here do not entail sharing of research data. Rather, it is meant to further mapping and linking to relevant open access reference indices, so as to improve compatibility of data collections and avoid data duplication through increased discoverability.
