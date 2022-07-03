@@ -12,6 +12,7 @@ The documentation available from the Chronology Working Group of the [Vocabulari
 
 Entity documentation in the pages listed below maintain a similar structure. First a **description** of the relevant data entity, followed by a section describing **recommended fields** to be included in a data table of the relevant data entity. We also include a section on **optional fields** with information on additional external identifiers that can be included. A section on **resources** provide basic details and links to online resources that may be consulted. The geographical data entities described in the documentation presented here include, at present, the following:
 
-* [Period](./geography_period.md)
-* [Date](./geography_date.md)
+* [Period](geography_period.html)
+* [Date](geography_date.html)   
+ 
 For inquiries, comments, and suggestions for improvement, please contact working group convenor Émilie Pagé-Perron <emilie.page-perron@wolfson.oc.ac.uk>.
