@@ -41,3 +41,4 @@ For archaeological and historical periods relating to the Middle East more gener
 - https://client.perio.do/   
 Note, however, that this resource do not currently include much in the way of up-to-date period sets for the cuneiform world.
 
+*- Rune Rattenborg*
