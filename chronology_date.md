@@ -32,12 +32,21 @@ See <chronology_period.html>
 
 ### Dynasty
 
+
 ### Ruler
+- [Rulers of Mesopotamia](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia)
+- [Rulers of Uruk](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_uruk_-_work_in_progress)
+- [Old Babylonian Rulers](https://cdli.ox.ac.uk/wiki/doku.php?id=old_babylonian_rulers) 
+- [Hellenistic Rulers](https://cdli.ox.ac.uk/wiki/doku.php?id=hellenistic_rulers)
 
 ### Eponym
+- [The Old and Middle Assyrian limmu officials](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials)
+- [The Neo Assyrian Eponyms](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_neo_assyrian_limmu_officials)
 
-### Month
-
+## Regnial years
+- [Rulers of Mesopotamia (with reginal years when available)](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia)
+- [Year numbers of rulers of Babylon in the First Millennium BC](https://cdli.ox.ac.uk/wiki/doku.php?id=year_numbersrulers_of_babylon_in_the_first_millennium_bc)
+-[]()
 ### Year names
 See the very simple presentation mode adopted by cdli:wiki:  
 
@@ -47,8 +56,12 @@ To search for a date, the most explicit model is given by the ad hoc window on t
 - http://www.archibab.fr/4DCGI/recherche11.htm     
 
 
+### Month
+
+
+
 
 
 
   
-*Bertrand Lafont*
+*Bertrand Lafont, Émilie Pagé-Perron*
