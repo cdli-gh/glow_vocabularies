@@ -14,4 +14,4 @@ Chronology Working Group
 
 ## Optional fields
 
-## Further reading
+## Resources
