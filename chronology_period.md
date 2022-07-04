@@ -10,8 +10,9 @@ Chronology Working Group
 
 ## Description
 
+
 ## Recommended fields
 
 ## Optional fields
 
-## Further reading
+## Resources
