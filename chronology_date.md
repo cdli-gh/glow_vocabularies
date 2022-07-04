@@ -11,7 +11,7 @@ Chronology Working Group
 ## Description
 
 
-Whatever the project, the mode of recording and displaying the year names generally starts from the widest chronological range and goes to the narrowest. The following hierarchy is thus almost always found: period / dynasty / ruler / year name / month / day.  This is the system adopted for example by ORACC and CDLI; it is difficult to get rid of it.
+Whatever the project, the mode of recording and displaying the date generally starts from the widest chronological range and goes to the narrowest. The following hierarchy is thus almost always found: period / dynasty / ruler / year name / month / day.  This is the system adopted for example by ORACC and CDLI and with some variations in some projects.
 
 
 ## Recommended fields
@@ -22,8 +22,8 @@ Month
 Day
 
 ## Optional fields
-Dynasty
-Year name
+### Dynasty
+### Year name
 
 ## Resources
 
@@ -36,6 +36,7 @@ See <chronology_period.html>
 ### Ruler
 - [Rulers of Mesopotamia](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia)
 - [Rulers of Uruk](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_uruk_-_work_in_progress)
+- [Early Dynastic Rulers of Babylonia](https://cdli.ox.ac.uk/wiki/doku.php?id=early_dynastic_rulers_of_babylonia)
 - [Old Babylonian Rulers](https://cdli.ox.ac.uk/wiki/doku.php?id=old_babylonian_rulers) 
 - [Hellenistic Rulers](https://cdli.ox.ac.uk/wiki/doku.php?id=hellenistic_rulers)
 
