@@ -39,10 +39,12 @@ See <chronology_period.html>
 ### Month
 
 ### Year names
-See the very simple presentation mode adopted by cdli:wiki:
-https://cdli.ox.ac.uk/wiki/doku.php?id=year_names
-To search for a date, the most explicit model is given by the ad hoc window on the website of the Archibab project:
-http://www.archibab.fr/4DCGI/recherche11.htm   
+See the very simple presentation mode adopted by cdli:wiki:  
+
+- https://cdli.ox.ac.uk/wiki/doku.php?id=year_names   
+
+To search for a date, the most explicit model is given by the ad hoc window on the website of the Archibab project:  
+- http://www.archibab.fr/4DCGI/recherche11.htm     
 
 
 
