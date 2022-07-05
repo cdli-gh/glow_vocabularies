@@ -15,6 +15,8 @@ A **location**, as understood here generally corresponds to the **provenience** 
 
 The extended conceptual meaning of this entity as employed here is derived in large part from the [location](https://pleiades.stoa.org/help/conceptual-overview) entity type of the [Pleiades: A Gazetteer of Past Places](pleiades.stoa.org) repository, where it need not refer solely to a known archaeological provenience of a cuneiform inscription, but indeed to any known physical location. Following this ontology, a **location** as understood in the present context may correspond to the provenience of a cuneiform inscription, or a historical [**place**](./geography_place.md) related to one or more [**names**](./geography_name.md) found in one or several cuneiform inscriptions, or an archaeological feature otherwise included in a given data collection, for example on the basis of historical contemporaneity.
 
+In a [Wikidata](https://www.wikidata.org/) ontology, this would correspond to the Wikidata item [Q839954 archaeological site](https://www.wikidata.org/wiki/Q839954)
+
 ## Recommended fields
 Being a geographical entity, a **location** record should always include a geographical coordinate utilising the **WGS84** coordinate reference system. A geographical coordinate includes **longitude** (x) and **latitude** (y), stored as **decimal degrees**. A geographical coordinate should always be accompanied by a definition of observational [certainty](./utility_certainty.md) made according to a known ordinal value set. For a **location**, observational certainty should reflect the **geographical precision** of the geographical coordinate, _not_ the certainty of association between the **location** and an ancient **place**.
 
@@ -27,8 +29,6 @@ cdli | Identifier of the corresponding entity record in the [Cuneiform Digital L
 pleiades | Identifier of the corresponding entity record in [Pleiades](pleiades.stoa.org)
 wikidata | Identifier of the corresponding entity record in [WikiData](http://wikidata.org)
 
-Linking the **location** record to a corresponding **wikidata** identifier will also establish a link to all associated identifiers included by WikiData. As such, a WikiData identifier will usually link to corresponding identifiers from GeoNames, OpenStreetMap,
-
 ## Optional fields
 Apart from the recommended basic fields described above, a wide range of external identifiers can also be optionally included. 
 
@@ -38,6 +38,7 @@ geonames_id | Link to the corresponding record in [GeoNames](http://geonames.org
 osm_id | Link to corresponding record in [OpenstreetMap](http://openstreetmap.org)
 osm_type | Type of geometry associated with **osm_id** in [OpenstreetMap](http://openstreetmap.org). Three different types of vector geometry are employed, namely **node**, **way**, and 
 pleiades_id | Link to corresponding record in [Pleiades](pleiades.stoa.org)
+
 
 ## Resources
 * For an updated index of archaeological locations where cuneiform texts have been found, see the most recent version of the [Cuneiform Inscriptions Geographical Site Index (CIGS)]() and the description of the index given in [Rattenborg et al. 2021](http://www.cdli.ucla.edu/pubs/cdlj/2021/cdlj2021_001.html)
