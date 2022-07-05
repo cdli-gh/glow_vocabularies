@@ -33,6 +33,6 @@ Entity descriptions provided in the pages listed below maintain the same structu
 
 * The [Database of Neo-Sumerian Texts (BDTNS)](http://bdtns.filol.csic.es), provides a web map visualisation of in-house [provenience and collection records](http://bdtns.filol.csic.es/mapa.php?modo=colecciones&pais=+the+World)
 
-* [Pleiades: A Gazetteer of Past Places](https://pleiades.stoa.org/) is a leading historical geographical database for Classics, but also with an increasing number of records for the Middle East and adjoining regions. The database holds upwards of 50,000 place records.
+* [Pleiades: A Gazetteer of Past Places](https://pleiades.stoa.org/) is a leading historical geographical database for Classics, but also with an increasing number of records for the Middle East and adjoining regions. The database holds upwards of 35,000 place records.
 
 * For open access indices of archaeological locations in the Middle East, see the most recent version of the [ANE Site Placemarks for Google Earth](https://zenodo.org/record/6384045) and the description of the index given in [Pedersén 2012]()
