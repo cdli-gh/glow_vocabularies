@@ -38,8 +38,9 @@ There are several digital indices available already that should be used or augme
 
 - <https://cdli.ox.ac.uk/wiki/doku.php?id=adopted_periodisation_in_cdli>
 - <https://cdli.mpiwg-berlin.mpg.de/periods>
+- <https://pleiades.stoa.org/vocabularies/time-periods>
   
-For archaeological and historical periods relating to the Middle East more generally, see:
+For archaeological and historical periods relating to the Middle East more generally, see:  
 - <https://client.perio.do/>
 Note, however, that this resource do not currently include much in the way of up-to-date period sets for the cuneiform world.
 
