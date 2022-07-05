@@ -36,11 +36,11 @@ The table below provides an overview of recommended basic attributes. It should 
 ## Resources
 There are several digital indices available already that should be used or augmented rather than relying on print resources. For periods used for cuneiform inscriptions and related artefacts in the Cuneiform Digital Library Initiative, Open Richly Annotated Cuneiform Corpus and others, see:
 
-- https://cdli.ox.ac.uk/wiki/doku.php?id=adopted_periodisation_in_cdli
-- https://cdli.mpiwg-berlin.mpg.de/periods
+- <https://cdli.ox.ac.uk/wiki/doku.php?id=adopted_periodisation_in_cdli>
+- <https://cdli.mpiwg-berlin.mpg.de/periods>
   
 For archaeological and historical periods relating to the Middle East more generally, see:
-- https://client.perio.do/   
+- <https://client.perio.do/>
 Note, however, that this resource do not currently include much in the way of up-to-date period sets for the cuneiform world.
 
 *- Rune Rattenborg*
