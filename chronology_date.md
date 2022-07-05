@@ -7,10 +7,11 @@ rank: 6
 # Date
 Chronology Working Group   
 <font size=1>Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig</font>  
-  
+   
+     
 ## Description
 
-
+  
 Whatever the project, the mode of recording and displaying the date generally starts from the widest chronological range and goes to the narrowest. The following hierarchy is thus almost always found: period / dynasty / ruler / year name / month / day.  This is the system adopted for example by ORACC and CDLI and with some variations in some projects.
 
 
