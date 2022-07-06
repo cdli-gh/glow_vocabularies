@@ -15,19 +15,22 @@ Whatever the project, the mode of recording and displaying the date generally st
 
 
 ## Recommended fields
-### Period
-Unless the 
+Each field of this entity ca be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats en encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice.
 
-Ruler or eponym
-Year
-Month
-Day
+## Ruler
+## Regnal Year
+## Month
+## Day
 A date cannot be dissociated of it's period, especially when some fields of the date entity are missing. See <chronology_period.html>
 
 ## Optional fields
 ### Dynasty
 
 ### Year name
+
+### Eponym
+
+### Month name
 
 
 ## Resources
