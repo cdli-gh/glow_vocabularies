@@ -5,25 +5,30 @@ rank: 6
 ---
 
 # Date
-Chronology Working Group 
-<font size=1>Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig</font>  
-   
-  
-  
+Chronology Working Group   
+Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig  
+     
 ## Description
-Whatever the project, the mode of recording and displaying the date generally starts from the widest chronological range and goes to the narrowest. The following hierarchy is thus almost always found: period / dynasty / ruler / year name / month / day.  This is the system adopted for example by ORACC and CDLI and with some variations in some projects.
-
+A date is a temporal entity which can be approximate or not and uncertain or not, this both based on information known from the artifact to which it is associated (though information found on the text, archaeological find context, and palaeographic and artifact typology infomation) and to our general understanding of the time frame in which the specific date occurs.   
+  
+A date starts with providing the widest chronological range and goes to the narrowest, from the [period](period.html) to the day. The different information composing a date will varry according to project and the corpus that is being studied as dates were recorded differently in various places and times. 
 
 ## Recommended fields
-Each field of this entity ca be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats en encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice.
+Each field of this entity can be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats and encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice. The first part of a date is the [period](period.html) which is discussed in a separate [document](period.html). 
 
 ## Ruler
+The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year name](date.html#year-name) or the [eponym](date.html#eponym) name.
+
 ## Regnal Year
+
 ## Month
+
 ## Day
 A date cannot be dissociated of it's period, especially when some fields of the date entity are missing. See <chronology_period.html>
 
+
 ## Optional fields
+
 ### Dynasty
 
 ### Year name
@@ -50,7 +55,7 @@ There are generally few digital resources listing vocabularies to use in the fie
 - [The Old and Middle Assyrian limmu officials](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials)
 - [The Neo Assyrian Eponyms](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_neo_assyrian_limmu_officials)
 
-## Regnial years
+### Regnial years
 - [Rulers of Mesopotamia (with reginal years when available)](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia)
 - [The Old and Middle Assyrian limmu officials](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials)
 - [Year numbers of rulers of Babylon in the First Millennium BC](https://cdli.ox.ac.uk/wiki/doku.php?id=year_numbersrulers_of_babylon_in_the_first_millennium_bc)
