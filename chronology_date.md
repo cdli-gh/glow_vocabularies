@@ -11,8 +11,7 @@ Chronology Working Group
   
   
 ## Description
-Whatever the project, the mode of recording and displaying the date generally starts from the widest chronological range and goes to the narrowest. The following hierarchy is thus almost always found: period / dynasty / ruler / year name / month / day.  This is the system adopted for example by ORACC and CDLI and with some variations in some projects.
-
+A date is a temporal entity which can be appriximate or not and uncertain or not, this both based on information present in the text to which it is associated and to our general understanding of the time frame in which the specific date occurs. A date starts with providing the widest chronological range and goes to the narrowest, from the [period](period.html) to the day. The different informations composing a date will varry according to project and the corpus that is being studied as dates were recorded differently in various places and times. 
 
 ## Recommended fields
 Each field of this entity ca be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats en encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice.
