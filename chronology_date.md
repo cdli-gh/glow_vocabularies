@@ -5,11 +5,9 @@ rank: 6
 ---
 
 # Date
-Chronology Working Group 
-<font size=1>Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig</font>  
-   
-  
-  
+Chronology Working Group   
+Émilie Pagé-Perron, Jamie Novotny, Heather Baker, Bertrand Lafont, Damien Agut-Labordere, Bruno Gombert, Mirko Novak, and David Danzig  
+     
 ## Description
 A date is a temporal entity which can be appriximate or not and uncertain or not, this both based on information present in the text to which it is associated and to our general understanding of the time frame in which the specific date occurs. A date starts with providing the widest chronological range and goes to the narrowest, from the [period](period.html) to the day. The different informations composing a date will varry according to project and the corpus that is being studied as dates were recorded differently in various places and times. 
 
