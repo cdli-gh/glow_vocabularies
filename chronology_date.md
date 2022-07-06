@@ -28,7 +28,6 @@ This field contains the month number of in the calendar.
 ## Day
 This field contains the number of the day in the current month.
 
-
 ## Optional fields
 Optional fields should be used as possible when the date is uncertain. They will provide important information that helps narrowing down the date or date range associated with a text.
 
@@ -39,11 +38,10 @@ This field should he used especially when the ruler's name is not available.
 This field should be used when the date number is not identifyable. 
 
 ### Eponym
-
+Providing the eponym name provides information towards regnal year.
 
 ### Month name
 Especially in the third millennium, calendars can display variation and the calendrical position of a month in a city is not always certain.
-
 
 ## Resources
 There are generally few digital resources listing vocabularies to use in the fields of the date entity. Aside from exracting lists of entities from digital corpora of existing projects, some lists are available at cdli::wiki and at cdli. 
