@@ -17,7 +17,7 @@ A date starts with providing the widest chronological range and goes to the narr
 Each field of this entity can be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats and encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice. The first part of a date is the [period](period.html) which is discussed in a separate [document](period.html). 
 
 ## Ruler
-The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the year name of the [eponym|(date.html#eponym) name
+The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year name|(date.html#year-name) or the [eponym|(date.html#eponym) name.
 
 ## Regnal Year
 
