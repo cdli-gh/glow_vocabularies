@@ -17,10 +17,10 @@ A date starts with providing the widest chronological range and goes to the narr
 Each field of this entity can be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats and encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice. The first part of a date is the [period](chronology_period.html) which is discussed in a separate [document](chronology_period.html). A date cannot be dissociated of it's period, especially when some fields of the date entity are missing. See [period](chronology_period.html).
 
 ## Ruler
-The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year_name](chronology_year_name.html) or the [eponym](#eponym) name.
+The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year name](chronology_year_name.html) or the [eponym](#eponym) name.
 
 ## Regnal Year
-Just like the ruler's name, the regnal year can be mentioned in the text or can be deduced from the [year_name](chronology_year_name.html) or the [eponym](#eponym) name.
+Just like the ruler's name, the regnal year can be mentioned in the text or can be deduced from the [year name](chronology_year_name.html) or the [eponym](#eponym) name.
 
 ## Month
 This field contains the month number of in the calendar. 
@@ -35,7 +35,7 @@ Optional fields should be used as possible when the date is uncertain. They will
 This field should he used especially when the ruler's name is not available.
 
 ### Year name
-This field should be used when the date number is not identifyable. See [year_name](chronology_year_name.html)
+This field should be used when the date number is not identifyable. See the [year name](chronology_year_name.html) page.
 
 ### Eponym
 Providing the eponym name provides information towards regnal year.
@@ -60,7 +60,7 @@ There are generally few digital resources listing vocabularies to use in the fie
 - [The Old and Middle Assyrian limmu officials](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials)
 - [The Neo Assyrian Eponyms](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_neo_assyrian_limmu_officials)
 
-### Regnial years
+### Regnal years
 - [Rulers of Mesopotamia (with reginal years when available)](https://cdli.ox.ac.uk/wiki/doku.php?id=rulers_of_mesopotamia)
 - [The Old and Middle Assyrian limmu officials](https://cdli.ox.ac.uk/wiki/doku.php?id=list_of_old_assyrian_limmu_officials)
 - [Year numbers of rulers of Babylon in the First Millennium BC](https://cdli.ox.ac.uk/wiki/doku.php?id=year_numbersrulers_of_babylon_in_the_first_millennium_bc)
