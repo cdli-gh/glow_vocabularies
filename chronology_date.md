@@ -11,16 +11,16 @@ Chronology Working Group
 ## Description
 A date is a temporal entity which can be approximate or not and uncertain or not, this both based on information known from the artifact to which it is associated (though information found on the text, archaeological find context, and palaeographic and artifact typology infomation) and to our general understanding of the time frame in which the specific date occurs.   
   
-A date starts with providing the widest chronological range and goes to the narrowest, from the [period](/period.html) to the day. The different information composing a date will varry according to project and the corpus that is being studied as dates were recorded differently in various places and times. 
+A date starts with providing the widest chronological range and goes to the narrowest, from the [period](chronology_period.html) to the day. The different information composing a date will varry according to project and the corpus that is being studied as dates were recorded differently in various places and times. 
 
 ## Recommended fields
-Each field of this entity can be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats and encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice. The first part of a date is the [period](period.html) which is discussed in a separate [document](period.html). A date cannot be dissociated of it's period, especially when some fields of the date entity are missing. See [period](period.html).
+Each field of this entity can be considered as a separate entity. However, for the sake of simplicity and compatibility among projects, they are treated here as parts of a single entity. Each project treats and encodes parts of a date differently in terms of format and structure but the idea remains the same and is grounded in decades of Assyriological practice. The first part of a date is the [period](chronology_period.html) which is discussed in a separate [document](chronology_period.html). A date cannot be dissociated of it's period, especially when some fields of the date entity are missing. See [period](chronology_period.html).
 
 ## Ruler
-The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year name](#year-name) or the [eponym](#eponym) name.
+The ruler field refers to the regional ruler's name. The ruler's name can be mentioned in the text or can be deduced from the [year_name](chronology_year_name.html) or the [eponym](#eponym) name.
 
 ## Regnal Year
-Just like the ruler's name, the regnal year can be mentioned in the text or can be deduced from the [year name](#year-name) or the [eponym](#eponym) name.
+Just like the ruler's name, the regnal year can be mentioned in the text or can be deduced from the [year_name](chronology_year_name.html) or the [eponym](#eponym) name.
 
 ## Month
 This field contains the month number of in the calendar. 
@@ -35,7 +35,7 @@ Optional fields should be used as possible when the date is uncertain. They will
 This field should he used especially when the ruler's name is not available.
 
 ### Year name
-This field should be used when the date number is not identifyable. 
+This field should be used when the date number is not identifyable. See [year_name](chronology_year_name.html)
 
 ### Eponym
 Providing the eponym name provides information towards regnal year.
