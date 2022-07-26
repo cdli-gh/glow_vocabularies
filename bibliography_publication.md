@@ -37,7 +37,7 @@ Linking the **publication** record to a corresponding **wikidata** identifier wi
 
 name | description
 -----|--------------
-wikidata | Identifier ([Q-id](https://www.wikidata.org/wiki/Q43649390)) of the corresponding wikidata item, property ([P-id](https://www.wikidata.org/wiki/Q18616576)), or lexeme ([L-id](https://www.wikidata.org/wiki/Q51885771))
+wikidata | Identifiers for the corresponding wikidata item ([Q-id](https://www.wikidata.org/wiki/Q43649390)), property ([P-id](https://www.wikidata.org/wiki/Q18616576)), or lexeme ([L-id](https://www.wikidata.org/wiki/Q51885771))
 URL | Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)) of the specific web page where the referenced content can be found
 ISBN | International Standard Book Number (ISBN)
 DOI | Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) for the publication
