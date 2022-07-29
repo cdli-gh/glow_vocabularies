@@ -14,7 +14,7 @@ rank: 1
 The **publication** entity defines the features of any publication of a cuneiform artifact, which may act as a type of primary source publication. Secondary source references to cuneiform tablets, such as sign readings, translations, etc. will be dealt with in the Bibliography Reference Markdown. As included in digital catalogues in cuneiform studies, the publications feature consists of a standardized citation which typically includes: author, title, date, and other publication information for an artifact with a cuneiform inscription. For an example of these standardized citations found in bibliography **publication** entities as employed in digital catalogues in cuneiform studies, see the [CDLI](https://cdli.ox.ac.uk/wiki/abbreviations_for_assyriology) and the [Keilschrift Bibliographie](https://vergil.uni-tuebingen.de/keibi/index.php?r=volume/list). 
 
 ## Recommended fields
-As a **publication** may contain multiple entity types, we utilize the fields from [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#terms-bibliographicCitation) and [MARC](https://www.loc.gov/marc/umb/um01to06.html) standards. A **publication** should always include an **author** of the work, along with a **title** and **year** in whic the work was published. 
+As a **publication** may contain multiple entity types, we utilize the fields from [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#terms-bibliographicCitation) and [MARC](https://www.loc.gov/marc/umb/um01to06.html) standards. A **publication** should always include an **author** of the work, along with a **title** and **year** in which the work was published. 
 
 name | description
 -----|---------------
@@ -30,6 +30,22 @@ add_PN | additional personal name entry (e.g. joint author, editor, or illustrat
 year | year (YYYY) of the publication
 place | place of publication
 lang | language ([ISO](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)) or languages of the publication
+
+Example publication field:
+name | value
+-----|---------------
+author | Abusch, Tzvi
+title | Notes on a Pair of Matching Texts: A Shepherd’s Bulla and an Owner’s Receipt
+publication | In Honor of Ernest R. Lacheman on His Seventy-fifth Birthday, April 29, 1981
+publisher | Eisenbrauns
+series | SCCNH
+vol | 1
+issue | Not applicable
+pages | 1-9
+add_PN | Not applicable
+year | 1981
+place | Winona Lake
+lang | en
 
 Linking the **publication** record to a corresponding **wikidata** identifier will also establish a link to all associated identifiers included by WikiData. As such, a WikiData identifier will usually link to corresponding identifiers from Wikipedia, Wikisources, Wikibooks, etc.
 
