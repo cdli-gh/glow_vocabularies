@@ -6,7 +6,7 @@ rank: 1
 
 ## Bibliography: publication
 
-<font size=2>Bibliography Working Group</font></br><font size=1>Manuel Molina (BDTNS), Wiebke Meinhold (Keibi), Georg Neumann (Keibi), Michaela Weszeli (Register Assyriologie), Adam Anderson (dubsar)
+<font size=2>Bibliography Working Group</font><br/><font size=1>Manuel Molina (BDTNS), Wiebke Meinhold (Keibi), Georg Neumann (Keibi), Michaela Weszeli (Register Assyriologie), Adam Anderson (dubsar)
 
 … </font>
 
@@ -58,7 +58,7 @@ URL | Uniform Resource Locator ([URL](https://en.wikipedia.org/wiki/URL)) of the
 ISBN | International Standard Book Number (ISBN)
 DOI | Digital Object Identifier ([DOI](https://en.wikipedia.org/wiki/Digital_object_identifier)) for the publication
 ORCID | Unique identifier for authors ([ORCID](https://info.orcid.org/documentation/))
-LCNN | Library of Congress Control Number ([LCNN](https://en.wikipedia.org/w/index.php?title=Library_of_Congress_Control_Number&oldid=1078490046))
+LCCN | Library of Congress Control Number ([LCCN](https://en.wikipedia.org/w/index.php?title=Library_of_Congress_Control_Number&oldid=1078490046))
 subj | topical [subject](https://en.wikipedia.org/wiki/Subject_(documents)) heading
 edition | edition number, if not the first edition
 month | month of publication for journal articles
